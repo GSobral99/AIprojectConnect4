@@ -6,17 +6,19 @@ This project demonstrates the practical application of advanced search algorithm
 
 ## Gameplay Demos
 ### Human vs Minimax AI
-![Human vs Minimax Demo](docs/human_vs_minimax.gif)
+<img src="docs/human_vs_minimax.gif" width="500">
+
 *Human player testing their skills against the depth-limited Minimax algorithm.*
 
 ### Human vs MCTS
-![AI vs AI Demo](docs/human_vs_mcts.gif)
-*Human player testing their skills against the  Monte Carlo Tree Search algorithm.*
+<img src="docs/human_vs_mcts.gif" width="500">
+
+*Human player testing their skills against the Monte Carlo Tree Search algorithm.*
 
 ### MCTS AI vs Minimax AI
-![AI vs AI Demo](docs/ai_vs_ai.gif)
-*Headless/GUI simulation matching the probabilistic Monte Carlo Tree Search(red) against the deterministic Minimax(yellow).*
+<img src="docs/ai_vs_ai.gif" width="500">
 
+*Headless/GUI simulation matching the probabilistic Monte Carlo Tree Search (red) against the deterministic Minimax (yellow).*
 ## Features
 
 * **Multiple Play Modes:** Configure match-ups between Human vs Human, Human vs AI, or AI vs AI.
